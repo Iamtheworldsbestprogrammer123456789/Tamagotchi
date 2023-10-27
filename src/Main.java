@@ -39,12 +39,13 @@ public class Main {
         Tamagotchi tamagotchi = new Tamagotchi(name);
         boolean fortsätt = true;
         while (fortsätt) {
+            System.out.println("Stats:");
             tamagotchi.printStats();
             if (tamagotchi.getAlive() == false) {
                 fortsätt = false;
                 break;
             }
-            System.out.println("Stats:");
+
             if (fortsätt) {
                 System.out.println("___________________________________________________________________");
                 System.out.println("1. Lärd " + tamagotchi.name + " ett ord.");

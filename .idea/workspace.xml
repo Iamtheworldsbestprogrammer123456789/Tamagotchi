@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b155e21d-33a6-441f-b471-81a29bacafb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tamagotchi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tamagotchi.java" afterDir="false" />
-    </list>
+    <list default="true" id="b155e21d-33a6-441f-b471-81a29bacafb8" name="Changes" comment="Har glömt att göra en commit varje lektion men här är typ den slutliga producten" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +56,32 @@
       <option name="presentableId" value="Default" />
       <updated>1696834016356</updated>
       <workItem from="1696834017382" duration="13248000" />
-      <workItem from="1698220516736" duration="4109000" />
+      <workItem from="1698220516736" duration="5072000" />
     </task>
+    <task id="LOCAL-00001" summary="Har glömt att göra en commit varje lektion men här är typ den slutliga producten">
+      <option name="closed" value="true" />
+      <created>1698324088453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698324088453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Har glömt att göra en commit varje lektion men här är typ den slutliga producten">
+      <option name="closed" value="true" />
+      <created>1698324284175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698324284175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Har glömt att göra en commit varje lektion men här är typ den slutliga producten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Har glömt att göra en commit varje lektion men här är typ den slutliga producten" />
   </component>
 </project>
